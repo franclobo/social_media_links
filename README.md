@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/franclobo/social_media_links/assets/58642949/79c5ae7e-b52e-4dc6-97ca-7821cc132b0a)
+
 
 ### Links
 
