@@ -19,7 +19,7 @@ body {
   color: var(--white);
   padding: 80px 30px;
   margin: 0;
-  height: 100vh;
+  text-align: center;
 }
 .container {
   display: flex;
@@ -90,11 +90,9 @@ body {
 
 @media (min-width: 768px) {
   body {
-    padding: 0;
+    padding: 45px;
   }
   .container {
-    top: 50%;
-    left: 50%;
     width: 375px;
   }
 }
